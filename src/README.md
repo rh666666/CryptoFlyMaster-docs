@@ -2,9 +2,9 @@
 home: true
 icon: home
 title: 密码：「飞」凡大师
-heroImage: /assets/logo.png
-bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
-bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
+heroImage: logo.png
+# bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
+# bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: 密码：「飞」凡大师
@@ -18,7 +18,7 @@ actions:
   - text: 文档
     link: ./guide/
 
-copyright: adoleiiiiii &copy; 2024</p>
+copyright: Copyright &copy; 2024 adoleiiiiii</p>
 footer: <a href="https://beian.miit.gov.cn/" target="_blank"><span style="color:#EFCCCC">皖ICP备2024046510号-1</span></a>
 ---
 <!-- 
