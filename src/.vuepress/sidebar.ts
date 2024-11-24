@@ -1,7 +1,10 @@
 import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar({
-  "/": [
+  "/start": [
+    ""
+  ],
+  "/demo": [
     "",
     {
       text: "案例",
@@ -22,4 +25,7 @@ export default sidebar({
       link: "https://ecosystem.vuejs.press/zh/plugins/markdown/revealjs/demo.html",
     },
   ],
+  "/guide": [
+    ""
+  ]
 });
