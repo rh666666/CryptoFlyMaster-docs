@@ -1,6 +1,8 @@
 ---
-title: 说明
-icon: circle-info
+title: 快速开始
+icon: rocket
+
+sidebar: false
 ---
 
 A crypto toolbox with python.  

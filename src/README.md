@@ -10,12 +10,13 @@ bgImageStyle:
 heroText: 密码：「飞」凡大师
 tagline: 传说中的密码工具箱
 actions:
-  - text: 使用指南
-    icon: lightbulb
-    link: ./demo/
+  - text: 快速开始
+    icon: rocket
+    link: ./start/
     type: primary
 
-  - text: 文档
+  - text: 指南
+    icon: lightbulb
     link: ./guide/
 
 copyright: Copyright &copy; 2024 adoleiiiiii</p>
