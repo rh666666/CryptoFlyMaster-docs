@@ -19,6 +19,10 @@ actions:
     icon: lightbulb
     link: ./guide/
 
+  - text: 说明
+    icon: info
+    link: ./info/
+
 copyright: Copyright &copy; 2024 adoleiiiiii</p>
 footer: <a href="https://beian.miit.gov.cn/" target="_blank"><span style="color:#EFCCCC">皖ICP备2024046510号-1</span></a>
 ---
