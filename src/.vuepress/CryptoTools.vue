@@ -126,7 +126,7 @@ export default {
         sm3: "输入明文格式：任意长度字符串 eg.hello world!<br>SM3 是中国自主研发的哈希算法，适合生成数据摘要，安全性较高。（单向加密，不可逆加密）",
         zuc: "输入明文格式：一个字符串 eg.133333ACCBACBACBABCABCABCBACBABCABCABCBACBABBABCBACBABCABCB<br>输入密钥格式：一个字符串和一个iv，用英文逗号分隔 eg.1111,acd<br>祖冲之 序列密码算法是我国发布的商用密码算法中的序列密码算法。<br>(！！！注：该加密算法时间较长，请耐心等待。！！！)"
       },
-      backendUrl: 'http://127.0.0.1:5000'
+      backendUrl: 'http://flask.xn--15t7v.icu'
     }
   },
   computed: {
