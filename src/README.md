@@ -23,8 +23,8 @@ actions:
     icon: info
     link: ./info/
 
-copyright: Copyright &copy; 2024 adoleiiiiii</p>
-footer: <a href="https://beian.miit.gov.cn/" target="_blank"><span style="color:#EFCCCC">皖ICP备2024046510号-1</span></a>
+copyright: Copyright &copy; 2024-2025 adoleiiiiii</p>
+footer: <a href="https://beian.miit.gov.cn/" target="_blank"><span style="color:#EFCCCC">皖ICP备2024046510号-2</span></a>
 ---
 <!-- 
 这是项目主页的案例。你可以在这里放置你的主体内容。
